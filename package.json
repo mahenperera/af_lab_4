@@ -1,0 +1,19 @@
+{
+  "name": "af_lab_4",
+  "version": "1.0.0",
+  "description": "Node.js practice project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahenperera/af_lab_4.git"
+  },
+  "author": "Mahen Perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahenperera/af_lab_4/issues"
+  },
+  "homepage": "https://github.com/mahenperera/af_lab_4#readme"
+}
